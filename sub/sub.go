@@ -1,7 +1,9 @@
 package sub
 
-import "fmt"
+import (
+	"github.com/CASE-fold/marwan-dep-test/subtwo"
+)
 
 func Hello() {
-	fmt.Println("ok")
+	subtwo.Hello()
 }
