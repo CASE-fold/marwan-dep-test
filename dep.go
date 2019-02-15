@@ -1,7 +1,7 @@
 package marwandep
 
 import (
-	"github.com/CASE-fold/marwan-dep-test/sub"
+	"github.com/case-fold/marwan-dep-test/sub"
 )
 
 func Hello() {
